@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    jagdev:
+      email: jagdevsinghdosanjh@gmail.com
+      name: Jagdev Singh
+      password: "$2b$12$w9z712ch8yJzPpDbQ5ys5eDYy/0M8a9PhC7eaiQDFubynHc.U4LLa"  # Replace with hashed password
+
+cookie:
+  expiry_days: 1
+  key: "some_signature_key"
+  name: "student_dashboard_cookie"
+
+preauthorized:
+  emails:
+    - jagdevsinghdosanjh@gmail.com
